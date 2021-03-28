@@ -1,4 +1,5 @@
 # recipes
+# Vuetify + NUXTJS
 
 ## Build Setup
 
